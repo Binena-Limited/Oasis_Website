@@ -1,0 +1,1 @@
+const fs=require('fs'),c=require('cheerio');const $=c.load(fs.readFileSync('index.html','utf8'));$('h1.title').each((i,e)=>$(e).html(i?'Stronger <span>Connections</span><br> For Your Enterprise':'Growing <span>Opportunity</span><br> For Your Farm'));fs.writeFileSync('index.html',$.html());

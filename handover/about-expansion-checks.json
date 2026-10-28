@@ -1,0 +1,24 @@
+[
+  {
+    "width": 390,
+    "startsCollapsed": true,
+    "opens": true,
+    "label": "Read Less",
+    "closes": true,
+    "downloadName": "Profile.pdf",
+    "downloadMatches": true,
+    "scroll": 390,
+    "font": "Jost"
+  },
+  {
+    "width": 1440,
+    "startsCollapsed": true,
+    "opens": true,
+    "label": "Read Less",
+    "closes": true,
+    "downloadName": "Profile.pdf",
+    "downloadMatches": true,
+    "scroll": 1440,
+    "font": "Jost"
+  }
+]

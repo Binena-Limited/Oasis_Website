@@ -1,0 +1,818 @@
+[
+  {
+    "asset": "assets/images/about/01.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 634,
+    "height": 657
+  },
+  {
+    "asset": "assets/images/about/02.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1192,
+    "height": 1038
+  },
+  {
+    "asset": "assets/images/about/03.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 646,
+    "height": 646
+  },
+  {
+    "asset": "assets/images/about/04.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 646,
+    "height": 646
+  },
+  {
+    "asset": "assets/images/about/user.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 82,
+    "height": 82
+  },
+  {
+    "asset": "assets/images/banner/bg-1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 880
+  },
+  {
+    "asset": "assets/images/banner/bg-2.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 1920,
+    "height": 880
+  },
+  {
+    "asset": "assets/images/banner/bg-3.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 880
+  },
+  {
+    "asset": "assets/images/banner/bg-4.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 1920,
+    "height": 850
+  },
+  {
+    "asset": "assets/images/banner/bg-5.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 850
+  },
+  {
+    "asset": "assets/images/banner/bg-6.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 1920,
+    "height": 850
+  },
+  {
+    "asset": "assets/images/banner/bg-7.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 980
+  },
+  {
+    "asset": "assets/images/banner/bg-8.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 1920,
+    "height": 980
+  },
+  {
+    "asset": "assets/images/blog/1.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 728,
+    "height": 580
+  },
+  {
+    "asset": "assets/images/blog/10.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "asset": "assets/images/blog/11.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/12.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/13.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/14.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/15.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/16.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/17.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/18.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/19.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "asset": "assets/images/blog/2.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 728,
+    "height": 580
+  },
+  {
+    "asset": "assets/images/blog/20.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/blog/21.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/blog/22.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/blog/23.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "asset": "assets/images/blog/24.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "asset": "assets/images/blog/25.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "asset": "assets/images/blog/26.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "asset": "assets/images/blog/27.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 856,
+    "height": 500
+  },
+  {
+    "asset": "assets/images/blog/28.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 764,
+    "height": 640
+  },
+  {
+    "asset": "assets/images/blog/29.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 764,
+    "height": 640
+  },
+  {
+    "asset": "assets/images/blog/3.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 728,
+    "height": 580
+  },
+  {
+    "asset": "assets/images/blog/30.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 560,
+    "height": 278
+  },
+  {
+    "asset": "assets/images/blog/31.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 300,
+    "height": 280
+  },
+  {
+    "asset": "assets/images/blog/4.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 848,
+    "height": 700
+  },
+  {
+    "asset": "assets/images/blog/5.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 848,
+    "height": 700
+  },
+  {
+    "asset": "assets/images/blog/6.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 848,
+    "height": 700
+  },
+  {
+    "asset": "assets/images/blog/7.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "asset": "assets/images/blog/8.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "asset": "assets/images/blog/9.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "asset": "assets/images/blog/author-1.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "asset": "assets/images/blog/author-2.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "asset": "assets/images/blog/author-3.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "asset": "assets/images/blog/author-4.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "asset": "assets/images/brand/01.webp",
+    "source": "Profile company values",
+    "width": 500,
+    "height": 200
+  },
+  {
+    "asset": "assets/images/brand/02.webp",
+    "source": "Profile company values",
+    "width": 500,
+    "height": 200
+  },
+  {
+    "asset": "assets/images/brand/03.webp",
+    "source": "Profile company values",
+    "width": 500,
+    "height": 200
+  },
+  {
+    "asset": "assets/images/brand/04.webp",
+    "source": "Profile company values",
+    "width": 500,
+    "height": 200
+  },
+  {
+    "asset": "assets/images/brand/05.webp",
+    "source": "Profile company values",
+    "width": 500,
+    "height": 200
+  },
+  {
+    "asset": "assets/images/breadcrumb/1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/breadcrumb/2.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/breadcrumb/3.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/breadcrumb/4.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/breadcrumb/5.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/breadcrumb/6.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/breadcrumb/7.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 440
+  },
+  {
+    "asset": "assets/images/counter/1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "asset": "assets/images/counter/2.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "asset": "assets/images/counter/3.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "asset": "assets/images/counter/4.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "asset": "assets/images/cta/01.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1320,
+    "height": 663
+  },
+  {
+    "asset": "assets/images/cta/02.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 524
+  },
+  {
+    "asset": "assets/images/cta/03.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1296,
+    "height": 376
+  },
+  {
+    "asset": "assets/images/cta/04.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1179,
+    "height": 919
+  },
+  {
+    "asset": "assets/images/faq/1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 916,
+    "height": 916
+  },
+  {
+    "asset": "assets/images/faq/2.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 726,
+    "height": 762
+  },
+  {
+    "asset": "assets/images/faq/3.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 362,
+    "height": 362
+  },
+  {
+    "asset": "assets/images/faq/4.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1920,
+    "height": 972
+  },
+  {
+    "asset": "assets/images/favicon.png",
+    "source": "oatech_icon.jpeg",
+    "width": 46,
+    "height": 53
+  },
+  {
+    "asset": "assets/images/footer/1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 160,
+    "height": 160
+  },
+  {
+    "asset": "assets/images/footer/2.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 160,
+    "height": 160
+  },
+  {
+    "asset": "assets/images/gallery/1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "asset": "assets/images/gallery/10.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/gallery/11.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/gallery/12.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/gallery/13.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/14.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/15.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/16.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/17.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/18.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/19.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/2.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "asset": "assets/images/gallery/20.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/21.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "asset": "assets/images/gallery/3.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "asset": "assets/images/gallery/4.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "asset": "assets/images/gallery/5.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "asset": "assets/images/gallery/6.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "asset": "assets/images/gallery/7.webp",
+    "source": "IMG_20210618_165244_931.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/gallery/8.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/gallery/9.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "asset": "assets/images/logo/logo-2.svg",
+    "source": "oatech_logo.png",
+    "width": 208,
+    "height": 55
+  },
+  {
+    "asset": "assets/images/logo/logo-3.svg",
+    "source": "oatech_logo.png",
+    "width": 208,
+    "height": 55
+  },
+  {
+    "asset": "assets/images/logo/logo.svg",
+    "source": "oatech_logo.png",
+    "width": 208,
+    "height": 55
+  },
+  {
+    "asset": "assets/images/project/1.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 728,
+    "height": 460
+  },
+  {
+    "asset": "assets/images/project/2.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 728,
+    "height": 460
+  },
+  {
+    "asset": "assets/images/project/3.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 728,
+    "height": 460
+  },
+  {
+    "asset": "assets/images/project/4.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1746,
+    "height": 1022
+  },
+  {
+    "asset": "assets/images/project/5.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 873,
+    "height": 511
+  },
+  {
+    "asset": "assets/images/project/6.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1746,
+    "height": 1022
+  },
+  {
+    "asset": "assets/images/project/7.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1320,
+    "height": 580
+  },
+  {
+    "asset": "assets/images/project/8.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 1200,
+    "height": 1040
+  },
+  {
+    "asset": "assets/images/services/01.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "asset": "assets/images/services/02.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "asset": "assets/images/services/03.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "asset": "assets/images/services/04.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1860,
+    "height": 906
+  },
+  {
+    "asset": "assets/images/services/05.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1920,
+    "height": 1005
+  },
+  {
+    "asset": "assets/images/services/06.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1921,
+    "height": 582
+  },
+  {
+    "asset": "assets/images/services/07.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 1920,
+    "height": 812
+  },
+  {
+    "asset": "assets/images/services/08.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "asset": "assets/images/services/09.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "asset": "assets/images/services/10.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "asset": "assets/images/services/11.webp",
+    "source": "IMG_20240920_135151_628.jpg.jpeg",
+    "width": 855,
+    "height": 500
+  },
+  {
+    "asset": "assets/images/services/12.webp",
+    "source": "Village-Agent.jpg.jpeg",
+    "width": 856,
+    "height": 350
+  },
+  {
+    "asset": "assets/images/team/01.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "asset": "assets/images/team/02.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "asset": "assets/images/team/03.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "asset": "assets/images/team/04.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "asset": "assets/images/team/05.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 360,
+    "height": 360
+  },
+  {
+    "asset": "assets/images/team/06.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 480,
+    "height": 480
+  },
+  {
+    "asset": "assets/images/team/07.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 360,
+    "height": 360
+  },
+  {
+    "asset": "assets/images/team/08.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 360,
+    "height": 360
+  },
+  {
+    "asset": "assets/images/team/09.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 360,
+    "height": 360
+  },
+  {
+    "asset": "assets/images/team/10.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "asset": "assets/images/team/11.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "asset": "assets/images/team/12.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "asset": "assets/images/team/13.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "asset": "assets/images/testimonial/clients.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 408,
+    "height": 120
+  },
+  {
+    "asset": "assets/images/testimonial/user.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 142,
+    "height": 140
+  },
+  {
+    "asset": "assets/images/why/01.webp",
+    "source": "IMG_20240922_140611_522.jpg.jpeg",
+    "width": 780,
+    "height": 535
+  },
+  {
+    "asset": "assets/images/why/clients.webp",
+    "source": "oatech_icon.jpeg",
+    "width": 408,
+    "height": 120
+  }
+]

@@ -1,0 +1,248 @@
+{
+  "broken": [],
+  "placeholder": [],
+  "layout": [],
+  "browser": [
+    {
+      "f": "about.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "about.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "blog-details.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "blog-details.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "blog-list.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "blog-list.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "blog.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "blog.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "contact-three.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "contact-three.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "contact-two.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "contact-two.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "contact.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "contact.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "faq.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "faq.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "index-three.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "index-three.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "index-two.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "index-two.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "index.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "index.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "onepage-one.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "onepage-one.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "onepage-three.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "onepage-three.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "onepage-two.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "onepage-two.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "pricing.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "pricing.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "project-details.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "project-details.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "project.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "project.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "service-details.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "service-details.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "service.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "service.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "team.html",
+      "w": 1440,
+      "overflow": false,
+      "brokenImages": []
+    },
+    {
+      "f": "team.html",
+      "w": 390,
+      "overflow": false,
+      "brokenImages": []
+    }
+  ],
+  "errors": []
+}

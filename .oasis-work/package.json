@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.2.0",
+    "mammoth": "^1.13.0",
+    "pdf-parse": "^2.4.5",
+    "playwright": "^1.64.1",
+    "sharp": "^0.35.5"
+  }
+}

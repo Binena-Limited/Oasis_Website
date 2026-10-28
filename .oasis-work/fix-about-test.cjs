@@ -1,0 +1,1 @@
+const fs=require('fs');const p='.oasis-work/check-about-expansion.cjs';let s=fs.readFileSync(p,'utf8');s=s.replace("p.getByRole('button',{name:'Read More',exact:true})","p.locator('button[aria-controls=\"oasis-about-more\"]')");fs.writeFileSync(p,s);

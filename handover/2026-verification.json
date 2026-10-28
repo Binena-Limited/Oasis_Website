@@ -1,0 +1,158 @@
+{
+  "pages": 12,
+  "brokenLinks": [],
+  "missingAssets": [],
+  "layout": [
+    {
+      "f": "about.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "blog-details.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "blog.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "contact.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "faq.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "index.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "pricing.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "project-details.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "project.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "service-details.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "service.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "team.html",
+      "width": 390,
+      "scroll": 390,
+      "missing": []
+    },
+    {
+      "f": "about.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "blog-details.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "blog.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "contact.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "faq.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "index.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "pricing.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "project-details.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "project.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "service-details.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "service.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    },
+    {
+      "f": "team.html",
+      "width": 1440,
+      "scroll": 1440,
+      "missing": []
+    }
+  ],
+  "errors": [],
+  "interactions": {
+    "menuOpen": true,
+    "menuCloses": true,
+    "faq": true,
+    "formRequiresFields": true
+  }
+}

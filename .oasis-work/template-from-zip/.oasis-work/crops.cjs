@@ -1,0 +1,1 @@
+﻿const sharp=require('sharp');(async()=>{for(let w of [1440,390])await sharp('.oasis-work/after-index-'+w+'.png').extract({left:0,top:0,width:w,height:Math.min(w===390?1700:1500,(await sharp('.oasis-work/after-index-'+w+'.png').metadata()).height)}).toFile('.oasis-work/review-'+w+'.png');})();

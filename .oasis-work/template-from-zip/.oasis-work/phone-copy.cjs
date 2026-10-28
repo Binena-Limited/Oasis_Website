@@ -1,0 +1,1 @@
+﻿const fs=require('fs'),c=require('cheerio');for(let f of ['about.html','index-three.html','onepage-three.html']){let $=c.load(fs.readFileSync(f,'utf8'));$('.rts-about-area p').has('a[href^="tel:"]').each((i,e)=>{for(let n of e.children||[])if(n.type==='text')n.data='Call our office: ';});fs.writeFileSync(f,$.html());}

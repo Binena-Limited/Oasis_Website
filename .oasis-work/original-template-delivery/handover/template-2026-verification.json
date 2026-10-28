@@ -1,0 +1,280 @@
+{
+  "pages": 12,
+  "brokenLinks": [],
+  "missingAssets": [],
+  "templateStructure": [
+    {
+      "f": "about.html",
+      "unchanged": true
+    },
+    {
+      "f": "blog-details.html",
+      "unchanged": true
+    },
+    {
+      "f": "blog.html",
+      "unchanged": true
+    },
+    {
+      "f": "contact.html",
+      "unchanged": true
+    },
+    {
+      "f": "faq.html",
+      "unchanged": true
+    },
+    {
+      "f": "index.html",
+      "unchanged": true
+    },
+    {
+      "f": "pricing.html",
+      "unchanged": true
+    },
+    {
+      "f": "project-details.html",
+      "unchanged": true
+    },
+    {
+      "f": "project.html",
+      "unchanged": true
+    },
+    {
+      "f": "service-details.html",
+      "unchanged": true
+    },
+    {
+      "f": "service.html",
+      "unchanged": true
+    },
+    {
+      "f": "team.html",
+      "unchanged": true
+    }
+  ],
+  "layout": [
+    {
+      "f": "about.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "blog-details.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "blog.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "contact.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "faq.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "index.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "pricing.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "project-details.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "project.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "service-details.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "service.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "team.html",
+      "width": 390,
+      "scroll": 390,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "about.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "blog-details.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "blog.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "contact.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "faq.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "index.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "pricing.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "project-details.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "project.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "service-details.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "service.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    },
+    {
+      "f": "team.html",
+      "width": 1440,
+      "scroll": 1440,
+      "font": "Jost",
+      "jostLoaded": true,
+      "missing": [],
+      "otherTextFonts": []
+    }
+  ],
+  "errors": [],
+  "interactions": {
+    "mobileMenu": true,
+    "menuCloses": true,
+    "slider": true,
+    "faq": true
+  }
+}

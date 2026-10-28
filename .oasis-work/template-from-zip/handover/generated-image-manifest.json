@@ -1,0 +1,386 @@
+[
+  {
+    "asset": "assets/images/generated/training-about-03.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 646,
+    "height": 646,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-about-04.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 646,
+    "height": 646,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-services-01.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 628,
+    "height": 400,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-services-02.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 628,
+    "height": 400,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-team-10.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 624,
+    "height": 746,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/farm-team-11.webp",
+    "source": "exec-ecff1dcc-de2d-4294-ab27-82afdc55540c.png",
+    "scene": "farm",
+    "width": 624,
+    "height": 746,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-team-12.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 624,
+    "height": 746,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-team-13.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 624,
+    "height": 746,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-blog-1.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 728,
+    "height": 580,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-blog-2.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 728,
+    "height": 580,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-3.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 728,
+    "height": 580,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-27.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 856,
+    "height": 500,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-blog-29.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 764,
+    "height": 640,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-blog-30.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 560,
+    "height": 278,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-31.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 300,
+    "height": 280,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-23.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 170,
+    "height": 170,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-blog-25.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 170,
+    "height": 170,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-blog-26.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 170,
+    "height": 170,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-11.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-blog-13.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-blog-14.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-15.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-blog-17.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-blog-18.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-19.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 788,
+    "height": 520,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-faq-1.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 916,
+    "height": 916,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-faq-2.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 726,
+    "height": 762,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-faq-3.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 362,
+    "height": 362,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/farm-banner-bg-7.webp",
+    "source": "exec-ecff1dcc-de2d-4294-ab27-82afdc55540c.png",
+    "scene": "farm",
+    "width": 1920,
+    "height": 980,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-banner-bg-8.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 1920,
+    "height": 980,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-services-07.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 1920,
+    "height": 812,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-cta-04.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 1179,
+    "height": 919,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/farm-project-5.webp",
+    "source": "exec-ecff1dcc-de2d-4294-ab27-82afdc55540c.png",
+    "scene": "farm",
+    "width": 873,
+    "height": 511,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-project-1.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 728,
+    "height": 460,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-project-2.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 728,
+    "height": 460,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-project-3.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 728,
+    "height": 460,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-blog-7.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 624,
+    "height": 500,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-blog-9.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 624,
+    "height": 500,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-blog-10.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 624,
+    "height": 500,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-project-7.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 1320,
+    "height": 580,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-project-8.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 1200,
+    "height": 1040,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-services-11.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 855,
+    "height": 500,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-services-09.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 628,
+    "height": 400,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-services-10.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 628,
+    "height": 400,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/training-team-01.webp",
+    "source": "exec-c29ddb53-6bd3-4155-974c-4a5b9cd04600.png",
+    "scene": "training",
+    "width": 370,
+    "height": 428,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/harvest-team-02.webp",
+    "source": "exec-5e09d084-9610-4b98-932b-3d830365b47d.png",
+    "scene": "harvest",
+    "width": 370,
+    "height": 428,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/farm-team-03.webp",
+    "source": "exec-ecff1dcc-de2d-4294-ab27-82afdc55540c.png",
+    "scene": "farm",
+    "width": 370,
+    "height": 428,
+    "generated": true
+  },
+  {
+    "asset": "assets/images/generated/irrigation-team-04.webp",
+    "source": "exec-03591214-2d24-4e8d-b289-91d7b89051b3.png",
+    "scene": "irrigation",
+    "width": 370,
+    "height": 428,
+    "generated": true
+  }
+]

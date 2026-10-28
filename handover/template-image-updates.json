@@ -1,0 +1,653 @@
+[
+  {
+    "original": "assets/images/gallery/7.webp",
+    "updated": "assets/images/oasis-template/inputs-gallery-7.webp",
+    "scene": "inputs",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "original": "assets/images/gallery/1.webp",
+    "updated": "assets/images/oasis-template/inputs-gallery-1.webp",
+    "scene": "inputs",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "original": "assets/images/gallery/8.webp",
+    "updated": "assets/images/oasis-template/digital-gallery-8.webp",
+    "scene": "digital",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "original": "assets/images/gallery/2.webp",
+    "updated": "assets/images/oasis-template/digital-gallery-2.webp",
+    "scene": "digital",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "original": "assets/images/gallery/9.webp",
+    "updated": "assets/images/oasis-template/markets-gallery-9.webp",
+    "scene": "markets",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "original": "assets/images/gallery/3.webp",
+    "updated": "assets/images/oasis-template/markets-gallery-3.webp",
+    "scene": "markets",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "original": "assets/images/gallery/10.webp",
+    "updated": "assets/images/oasis-template/resilience-gallery-10.webp",
+    "scene": "resilience",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "original": "assets/images/gallery/4.webp",
+    "updated": "assets/images/oasis-template/resilience-gallery-4.webp",
+    "scene": "resilience",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "original": "assets/images/gallery/11.webp",
+    "updated": "assets/images/oasis-template/network-gallery-11.webp",
+    "scene": "network",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "original": "assets/images/gallery/5.webp",
+    "updated": "assets/images/oasis-template/network-gallery-5.webp",
+    "scene": "network",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "original": "assets/images/gallery/12.webp",
+    "updated": "assets/images/oasis-template/soil-gallery-12.webp",
+    "scene": "soil",
+    "width": 1400,
+    "height": 800
+  },
+  {
+    "original": "assets/images/gallery/6.webp",
+    "updated": "assets/images/oasis-template/soil-gallery-6.webp",
+    "scene": "soil",
+    "width": 150,
+    "height": 150
+  },
+  {
+    "original": "assets/images/generated/training-about-03.webp",
+    "updated": "assets/images/oasis-template/network-generated-training-about-03.webp",
+    "scene": "network",
+    "width": 646,
+    "height": 646
+  },
+  {
+    "original": "assets/images/generated/irrigation-about-04.webp",
+    "updated": "assets/images/oasis-template/digital-generated-irrigation-about-04.webp",
+    "scene": "digital",
+    "width": 646,
+    "height": 646
+  },
+  {
+    "original": "assets/images/services/04.webp",
+    "updated": "assets/images/oasis-template/markets-services-04.webp",
+    "scene": "markets",
+    "width": 1860,
+    "height": 906
+  },
+  {
+    "original": "assets/images/generated/harvest-services-01.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-harvest-services-01.webp",
+    "scene": "inputs",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "original": "assets/images/generated/training-services-02.webp",
+    "updated": "assets/images/oasis-template/digital-generated-training-services-02.webp",
+    "scene": "digital",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "original": "assets/images/services/03.webp",
+    "updated": "assets/images/oasis-template/network-services-03.webp",
+    "scene": "network",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "original": "assets/images/generated/harvest-team-10.webp",
+    "updated": "assets/images/oasis-template/markets-generated-harvest-team-10.webp",
+    "scene": "markets",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "original": "assets/images/generated/farm-team-11.webp",
+    "updated": "assets/images/oasis-template/digital-generated-farm-team-11.webp",
+    "scene": "digital",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "original": "assets/images/generated/irrigation-team-12.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-irrigation-team-12.webp",
+    "scene": "resilience",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "original": "assets/images/generated/training-team-13.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-training-team-13.webp",
+    "scene": "inputs",
+    "width": 624,
+    "height": 746
+  },
+  {
+    "original": "assets/images/cta/02.webp",
+    "updated": "assets/images/oasis-template/network-cta-02.webp",
+    "scene": "network",
+    "width": 1920,
+    "height": 524
+  },
+  {
+    "original": "assets/images/blog/bg-1.webp",
+    "updated": "assets/images/oasis-template/digital-blog-bg-1.webp",
+    "scene": "digital",
+    "width": 1920,
+    "height": 1057
+  },
+  {
+    "original": "assets/images/generated/harvest-blog-1.webp",
+    "updated": "assets/images/oasis-template/digital-generated-harvest-blog-1.webp",
+    "scene": "digital",
+    "width": 728,
+    "height": 580
+  },
+  {
+    "original": "assets/images/generated/training-blog-2.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-training-blog-2.webp",
+    "scene": "inputs",
+    "width": 728,
+    "height": 580
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-3.webp",
+    "updated": "assets/images/oasis-template/finance-generated-irrigation-blog-3.webp",
+    "scene": "finance",
+    "width": 728,
+    "height": 580
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-27.webp",
+    "updated": "assets/images/oasis-template/finance-generated-irrigation-blog-27.webp",
+    "scene": "finance",
+    "width": 856,
+    "height": 500
+  },
+  {
+    "original": "assets/images/blog/28.webp",
+    "updated": "assets/images/oasis-template/markets-blog-28.webp",
+    "scene": "markets",
+    "width": 764,
+    "height": 640
+  },
+  {
+    "original": "assets/images/generated/harvest-blog-29.webp",
+    "updated": "assets/images/oasis-template/network-generated-harvest-blog-29.webp",
+    "scene": "network",
+    "width": 764,
+    "height": 640
+  },
+  {
+    "original": "assets/images/generated/training-blog-30.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-training-blog-30.webp",
+    "scene": "resilience",
+    "width": 560,
+    "height": 278
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-31.webp",
+    "updated": "assets/images/oasis-template/digital-generated-irrigation-blog-31.webp",
+    "scene": "digital",
+    "width": 300,
+    "height": 280
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-23.webp",
+    "updated": "assets/images/oasis-template/network-generated-irrigation-blog-23.webp",
+    "scene": "network",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "original": "assets/images/blog/24.webp",
+    "updated": "assets/images/oasis-template/resilience-blog-24.webp",
+    "scene": "resilience",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "original": "assets/images/generated/harvest-blog-25.webp",
+    "updated": "assets/images/oasis-template/digital-generated-harvest-blog-25.webp",
+    "scene": "digital",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "original": "assets/images/generated/training-blog-26.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-training-blog-26.webp",
+    "scene": "inputs",
+    "width": 170,
+    "height": 170
+  },
+  {
+    "original": "assets/images/gallery/13.webp",
+    "updated": "assets/images/oasis-template/inputs-gallery-13.webp",
+    "scene": "inputs",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/14.webp",
+    "updated": "assets/images/oasis-template/digital-gallery-14.webp",
+    "scene": "digital",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/15.webp",
+    "updated": "assets/images/oasis-template/markets-gallery-15.webp",
+    "scene": "markets",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/16.webp",
+    "updated": "assets/images/oasis-template/resilience-gallery-16.webp",
+    "scene": "resilience",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/17.webp",
+    "updated": "assets/images/oasis-template/network-gallery-17.webp",
+    "scene": "network",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/18.webp",
+    "updated": "assets/images/oasis-template/soil-gallery-18.webp",
+    "scene": "soil",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/19.webp",
+    "updated": "assets/images/oasis-template/inputs-gallery-19.webp",
+    "scene": "inputs",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/20.webp",
+    "updated": "assets/images/oasis-template/digital-gallery-20.webp",
+    "scene": "digital",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/gallery/21.webp",
+    "updated": "assets/images/oasis-template/markets-gallery-21.webp",
+    "scene": "markets",
+    "width": 216,
+    "height": 216
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-11.webp",
+    "updated": "assets/images/oasis-template/network-generated-irrigation-blog-11.webp",
+    "scene": "network",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/blog/12.webp",
+    "updated": "assets/images/oasis-template/resilience-blog-12.webp",
+    "scene": "resilience",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/generated/harvest-blog-13.webp",
+    "updated": "assets/images/oasis-template/digital-generated-harvest-blog-13.webp",
+    "scene": "digital",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/generated/training-blog-14.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-training-blog-14.webp",
+    "scene": "inputs",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-15.webp",
+    "updated": "assets/images/oasis-template/finance-generated-irrigation-blog-15.webp",
+    "scene": "finance",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/blog/16.webp",
+    "updated": "assets/images/oasis-template/markets-blog-16.webp",
+    "scene": "markets",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/generated/harvest-blog-17.webp",
+    "updated": "assets/images/oasis-template/network-generated-harvest-blog-17.webp",
+    "scene": "network",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/generated/training-blog-18.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-training-blog-18.webp",
+    "scene": "resilience",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-19.webp",
+    "updated": "assets/images/oasis-template/digital-generated-irrigation-blog-19.webp",
+    "scene": "digital",
+    "width": 788,
+    "height": 520
+  },
+  {
+    "original": "assets/images/faq/4.webp",
+    "updated": "assets/images/oasis-template/resilience-faq-4.webp",
+    "scene": "resilience",
+    "width": 1920,
+    "height": 972
+  },
+  {
+    "original": "assets/images/generated/irrigation-faq-1.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-irrigation-faq-1.webp",
+    "scene": "resilience",
+    "width": 916,
+    "height": 916
+  },
+  {
+    "original": "assets/images/generated/harvest-faq-2.webp",
+    "updated": "assets/images/oasis-template/soil-generated-harvest-faq-2.webp",
+    "scene": "soil",
+    "width": 726,
+    "height": 762
+  },
+  {
+    "original": "assets/images/generated/training-faq-3.webp",
+    "updated": "assets/images/oasis-template/network-generated-training-faq-3.webp",
+    "scene": "network",
+    "width": 362,
+    "height": 362
+  },
+  {
+    "original": "assets/images/generated/farm-banner-bg-7.webp",
+    "updated": "assets/images/oasis-template/hero-generated-farm-banner-bg-7.webp",
+    "scene": "hero",
+    "width": 1920,
+    "height": 980
+  },
+  {
+    "original": "assets/images/generated/harvest-banner-bg-8.webp",
+    "updated": "assets/images/oasis-template/story-generated-harvest-banner-bg-8.webp",
+    "scene": "story",
+    "width": 1920,
+    "height": 980
+  },
+  {
+    "original": "assets/images/services/06.webp",
+    "updated": "assets/images/oasis-template/finance-services-06.webp",
+    "scene": "finance",
+    "width": 1921,
+    "height": 582
+  },
+  {
+    "original": "assets/images/generated/irrigation-services-07.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-irrigation-services-07.webp",
+    "scene": "inputs",
+    "width": 1920,
+    "height": 812
+  },
+  {
+    "original": "assets/images/counter/1.webp",
+    "updated": "assets/images/oasis-template/network-counter-1.webp",
+    "scene": "network",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "original": "assets/images/counter/2.webp",
+    "updated": "assets/images/oasis-template/story-counter-2.webp",
+    "scene": "story",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "original": "assets/images/counter/3.webp",
+    "updated": "assets/images/oasis-template/inputs-counter-3.webp",
+    "scene": "inputs",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "original": "assets/images/counter/4.webp",
+    "updated": "assets/images/oasis-template/soil-counter-4.webp",
+    "scene": "soil",
+    "width": 220,
+    "height": 240
+  },
+  {
+    "original": "assets/images/generated/training-cta-04.webp",
+    "updated": "assets/images/oasis-template/network-generated-training-cta-04.webp",
+    "scene": "network",
+    "width": 1179,
+    "height": 919
+  },
+  {
+    "original": "assets/images/project/4.webp",
+    "updated": "assets/images/oasis-template/network-project-4.webp",
+    "scene": "network",
+    "width": 1746,
+    "height": 1022
+  },
+  {
+    "original": "assets/images/generated/farm-project-5.webp",
+    "updated": "assets/images/oasis-template/finance-generated-farm-project-5.webp",
+    "scene": "finance",
+    "width": 873,
+    "height": 511
+  },
+  {
+    "original": "assets/images/project/6.webp",
+    "updated": "assets/images/oasis-template/digital-project-6.webp",
+    "scene": "digital",
+    "width": 1746,
+    "height": 1022
+  },
+  {
+    "original": "assets/images/generated/irrigation-project-1.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-irrigation-project-1.webp",
+    "scene": "resilience",
+    "width": 728,
+    "height": 460
+  },
+  {
+    "original": "assets/images/generated/training-project-2.webp",
+    "updated": "assets/images/oasis-template/markets-generated-training-project-2.webp",
+    "scene": "markets",
+    "width": 728,
+    "height": 460
+  },
+  {
+    "original": "assets/images/generated/harvest-project-3.webp",
+    "updated": "assets/images/oasis-template/inputs-generated-harvest-project-3.webp",
+    "scene": "inputs",
+    "width": 728,
+    "height": 460
+  },
+  {
+    "original": "assets/images/generated/irrigation-blog-7.webp",
+    "updated": "assets/images/oasis-template/digital-generated-irrigation-blog-7.webp",
+    "scene": "digital",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "original": "assets/images/blog/author-1.webp",
+    "updated": "assets/images/oasis-template/digital-blog-author-1.webp",
+    "scene": "digital",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "original": "assets/images/blog/8.webp",
+    "updated": "assets/images/oasis-template/inputs-blog-8.webp",
+    "scene": "inputs",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "original": "assets/images/blog/author-2.webp",
+    "updated": "assets/images/oasis-template/inputs-blog-author-2.webp",
+    "scene": "inputs",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "original": "assets/images/generated/harvest-blog-9.webp",
+    "updated": "assets/images/oasis-template/finance-generated-harvest-blog-9.webp",
+    "scene": "finance",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "original": "assets/images/blog/author-3.webp",
+    "updated": "assets/images/oasis-template/finance-blog-author-3.webp",
+    "scene": "finance",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "original": "assets/images/generated/training-blog-10.webp",
+    "updated": "assets/images/oasis-template/markets-generated-training-blog-10.webp",
+    "scene": "markets",
+    "width": 624,
+    "height": 500
+  },
+  {
+    "original": "assets/images/blog/author-4.webp",
+    "updated": "assets/images/oasis-template/markets-blog-author-4.webp",
+    "scene": "markets",
+    "width": 80,
+    "height": 80
+  },
+  {
+    "original": "assets/images/cta/bg.webp",
+    "updated": "assets/images/oasis-template/network-cta-bg.webp",
+    "scene": "network",
+    "width": 1320,
+    "height": 250
+  },
+  {
+    "original": "assets/images/generated/irrigation-project-7.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-irrigation-project-7.webp",
+    "scene": "resilience",
+    "width": 1320,
+    "height": 580
+  },
+  {
+    "original": "assets/images/generated/training-project-8.webp",
+    "updated": "assets/images/oasis-template/markets-generated-training-project-8.webp",
+    "scene": "markets",
+    "width": 1200,
+    "height": 1040
+  },
+  {
+    "original": "assets/images/generated/irrigation-services-11.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-irrigation-services-11.webp",
+    "scene": "resilience",
+    "width": 855,
+    "height": 500
+  },
+  {
+    "original": "assets/images/services/12.webp",
+    "updated": "assets/images/oasis-template/finance-services-12.webp",
+    "scene": "finance",
+    "width": 856,
+    "height": 350
+  },
+  {
+    "original": "assets/images/services/08.webp",
+    "updated": "assets/images/oasis-template/digital-services-08.webp",
+    "scene": "digital",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "original": "assets/images/generated/harvest-services-09.webp",
+    "updated": "assets/images/oasis-template/network-generated-harvest-services-09.webp",
+    "scene": "network",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "original": "assets/images/generated/training-services-10.webp",
+    "updated": "assets/images/oasis-template/markets-generated-training-services-10.webp",
+    "scene": "markets",
+    "width": 628,
+    "height": 400
+  },
+  {
+    "original": "assets/images/generated/training-team-01.webp",
+    "updated": "assets/images/oasis-template/network-generated-training-team-01.webp",
+    "scene": "network",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "original": "assets/images/generated/harvest-team-02.webp",
+    "updated": "assets/images/oasis-template/markets-generated-harvest-team-02.webp",
+    "scene": "markets",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "original": "assets/images/generated/farm-team-03.webp",
+    "updated": "assets/images/oasis-template/digital-generated-farm-team-03.webp",
+    "scene": "digital",
+    "width": 370,
+    "height": 428
+  },
+  {
+    "original": "assets/images/generated/irrigation-team-04.webp",
+    "updated": "assets/images/oasis-template/resilience-generated-irrigation-team-04.webp",
+    "scene": "resilience",
+    "width": 370,
+    "height": 428
+  }
+]

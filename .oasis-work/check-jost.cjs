@@ -1,0 +1,1 @@
+const fs=require('fs');(async()=>{const t=await(await fetch('https://fonts.googleapis.com/css2?family=Jost:wght@100..900&display=swap',{headers:{'User-Agent':'Mozilla/5.0'}})).text();fs.writeFileSync('.oasis-work/jost-download.css',t);console.log(t.slice(-4500));console.log('header',fs.readFileSync('assets/fonts/jost-latin-variable.woff2').subarray(0,4).toString());})();

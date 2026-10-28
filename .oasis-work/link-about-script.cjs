@@ -1,0 +1,1 @@
+const fs=require('fs'),c=require('cheerio');const $=c.load(fs.readFileSync('about.html','utf8'));$('body').append('<script defer src="assets/js/about-details.js"></script>');fs.writeFileSync('about.html',$.html());

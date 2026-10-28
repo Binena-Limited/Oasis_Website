@@ -1,0 +1,1 @@
+﻿const fs=require('fs');let src=fs.readFileSync('.oasis-work/check.cjs','utf8').split('let b=await chromium.launch')[0];fs.writeFileSync('.oasis-work/static-check.cjs',src+"fs.writeFileSync('.oasis-work/static-checks.json',JSON.stringify(report,null,2));console.log(JSON.stringify(report));})();");

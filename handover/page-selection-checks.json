@@ -1,0 +1,194 @@
+{
+  "pages": [
+    "about.html",
+    "blog-details.html",
+    "blog.html",
+    "contact.html",
+    "faq.html",
+    "index.html",
+    "pricing.html",
+    "project-details.html",
+    "project.html",
+    "service-details.html",
+    "service.html",
+    "team.html"
+  ],
+  "brokenLinks": [],
+  "alternateLinks": [],
+  "browser": [
+    {
+      "f": "about.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "about.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "blog-details.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "blog-details.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "blog.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "blog.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "contact.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "contact.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "faq.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "faq.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "index.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "index.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "pricing.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "pricing.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "project-details.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "project-details.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "project.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "project.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "service-details.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "service-details.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "service.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "service.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "team.html",
+      "width": 1440,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    },
+    {
+      "f": "team.html",
+      "width": 390,
+      "overflow": false,
+      "brokenImages": [],
+      "brokenBackgrounds": []
+    }
+  ],
+  "errors": [],
+  "mobileMenu": true,
+  "mobileHomeLinks": [
+    "index.html"
+  ],
+  "slider": true
+}

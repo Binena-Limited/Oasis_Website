@@ -1,0 +1,1 @@
+const fs=require('fs');const p='.oasis-work/verify-2026.cjs';let t=fs.readFileSync(p,'utf8');t=t.replace('const layout=await p.evaluate',"await p.evaluate(async()=>{await Promise.all([...document.images].map(i=>{i.loading='eager';return i.decode().catch(()=>{})}))});const layout=await p.evaluate");fs.writeFileSync(p,t);

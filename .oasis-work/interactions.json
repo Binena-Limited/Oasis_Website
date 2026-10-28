@@ -1,0 +1,8 @@
+{
+  "mobileMenu": true,
+  "mobileMenuClosed": true,
+  "gallery": true,
+  "slider": true,
+  "accordion": true,
+  "staticFormRejectsFalseSuccess": true
+}

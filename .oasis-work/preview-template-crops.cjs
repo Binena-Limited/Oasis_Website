@@ -1,0 +1,1 @@
+const sharp=require('sharp');(async()=>{for(const f of ['index','about','contact']){const p='.oasis-work/template-updated-'+f+'-390.png';await sharp(p).extract({left:0,top:0,width:390,height:950}).png().toFile('.oasis-work/template-top-'+f+'.png')}})();

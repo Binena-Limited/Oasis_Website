@@ -1,0 +1,1 @@
+﻿const fs=require('fs'),c=require('cheerio');let out={};for(let f of fs.readdirSync('.').filter(x=>x.endsWith('.html')&&!x.startsWith('Null'))){let $=c.load(fs.readFileSync(f,'utf8'));out[f]=$('h1,h2,h3,h4,h5,h6,p,blockquote,span.counter').map((i,e)=>$(e).text().replace(/\s+/g,' ').trim()).get();}fs.writeFileSync('.oasis-work/components.json',JSON.stringify(out,null,2));

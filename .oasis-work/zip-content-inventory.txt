@@ -1,0 +1,418 @@
+
+=== about.html ===
+h2 .title | About Oasis
+p .desc | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+li . | Home
+li . | About
+h2 .title rts-slide-anim | Agri-Technology for agricultural communities
+p .desc | Oasis Agribusiness (U) Limited is an Agri-Technology company. Established in 2015 and registered on 24 July 2018, we deliver agricultural products and services through agents and rural outlets.
+h3 .title | Agents and Rural Outlets
+h3 .title | Learning and Financial Linkages
+p .desc | Call our office: 0393 238073
+h2 .title cw rts-slide-anim | Agricultural services for farmers and enterprises
+h3 .title | Agricultural Inputs
+p .desc | High-quality seeds, agro-chemicals and farm tools, available through agents and rural outlets.
+h3 .title | Farmer Support
+p .desc | Field-based farmer support and electronic learning platforms for agricultural communities.
+h3 .title | Learning and Financial Linkages
+p .desc | Financial linkages, agro insurance and enterprise development services for farmers.
+h2 .title rts-slide-anim | Connecting Farmers with Products and Support
+p .desc | To be the leading catalyst for agricultural advancement and empowerment through Agri-Technology, sustainable practices and inclusive solutions.
+p .desc | Serving women, men, youth, refugees and host communities
+h3 .title | Products and Services Together
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h3 .title | Agents and Rural Outlets
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h3 .title | Inclusive Farmer Support
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h2 .why-title rts-horizontal-anim | Empowerment Innovation Sustainability Community Impact Integrity Collaboration
+h2 .title rts-slide-anim | Our Agent and Support Model
+h3 .title | Rural Outlets
+h3 .title | Enterprise Services
+h3 .title | Financial Linkages
+h3 .title | Software Solutions
+h2 .title cw | Have an Enquiry? Let's Talk About Agricultural Services
+h2 .title rts-slide-anim | Explore our services and agricultural approach.
+li . | Company Profile
+li . | Business Solution
+h3 .title | Access to agricultural products through local agents
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Business Solution
+h3 .title | Farmer learning and support through technology
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Business Solution
+h3 .title | Financial linkages and enterprise development
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+
+=== blog-details.html ===
+h2 .title | Supporting Agricultural Communities
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | blog details
+li . | Oasis Profile
+li . | Company Profile
+li . | Business Solution
+h3 .title mb-30 | Connecting farmers with products and support
+p .mb-40 | To empower and transform agricultural communities through innovative Agri-Technology solutions, comprehensive support services, and sustainable practices.
+p . | To be the leading catalyst for agricultural advancement and empowerment through Agri-Technology, sustainable practices and inclusive solutions.
+h3 . | Oasis Agribusiness (U) Limited is an Agri-Technology company connecting farmers with agricultural products and services through agents and rural outlets. Our work brings together inputs, field-based support, learning platforms, financial linkages and enterprise services.
+h4 . | Our Mission
+p .mb-30 | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h3 .title2 | Our agricultural support model
+p .mb-35 | To empower and transform agricultural communities through innovative Agri-Technology solutions, comprehensive support services, and sustainable practices.
+li . | High-quality seeds and agro-chemicals
+li . | Farm tools and agro insurance
+li . | Electronic farmer learning platforms
+li . | Financial linkages for farmers
+li . | Enterprise development and software
+p .mt-30 | To be the leading catalyst for agricultural advancement and empowerment through Agri-Technology, sustainable practices and inclusive solutions.
+h3 . | Tags:
+li . | Services
+li . | Business
+li . | Growth
+h3 . | Share:
+h4 . | Oasis Agribusiness
+p . | Oasis Agribusiness (U) Limited is an Agri-Technology company connecting farmers with agricultural products and services through agents and rural outlets. Our work brings together inputs, field-based support, learning platforms, financial linkages and enterprise services.
+h4 .title2 | Contact Oasis
+h3 .widget-title | Search Here
+h3 .widget-title | Categories
+li . | Business Solution
+li . | Farmer Support
+li . | Financial Linkages
+li . | Enterprise Development
+li . | Agro Insurance
+h3 .widget-title | Recent Post
+h4 .title | We would love to share a similar experience
+h4 .title | Digital learning for agricultural communities
+h4 .title | Financial linkages for farmers
+h4 .title | Enterprise development services
+h4 .widget-title | Gallery Posts
+h4 .widget-title | Popular Posts
+
+=== blog.html ===
+h2 .title | Farmer Resources
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | blog
+li . | Company Profile
+li . | Company Profile
+h3 .title | Digital learning for agricultural communities
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Connecting farmers with agricultural inputs
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Financial linkages for agricultural enterprises
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Enterprise development for rural businesses
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Financial linkages and enterprise development
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Field-based support for farming communities
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Software solutions for agricultural enterprises
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Sustainable practices and agricultural innovation
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li . | Company Profile
+li . | Company Profile
+h3 .title | Agent networks and rural service outlets
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+li .active | 01
+li . | 02
+li . | 03
+li . | 04
+
+=== contact.html ===
+h2 .title | Contact Oasis
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | Contact
+h3 .title | Connect with Oasis for farmer support
+h4 . | 0393 238073
+h4 . | oasisagroagent@gmail.com
+h4 . | Plot 63-69, Lira City
+
+=== faq.html ===
+h2 .title | Need Help?
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | FAQ
+h2 .title rts-slide-anim | Agricultural support through agents, rural outlets and technology
+h2 .accordion-header | What products and services does Oasis provide?
+div .accordion-body | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h2 .accordion-header | Which communities does Oasis support?
+div .accordion-body | Oasis supports women, men, youth, refugees and host communities. Its company profile describes work across Lango, Karamoja, West Nile and Acholi.
+h2 .accordion-header | How can I contact Oasis?
+div .accordion-body | Call 0393 238073 or email oasisagroagent@gmail.com. The head office is at Plot 63-69, Women Peace House Suite 2, Lira City.
+h3 .counter-no | 2015
+p .desc | Company established in 2015
+h3 .title rts-slide-anim | Connect with Oasis Agribusiness
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+h3 .title | 2015 Projects Done
+p .desc | From banking and insurance to wealth the management and security on there
+h3 .title | 2015 Happy Clients
+p .desc | From banking and insurance to wealth the management and security on there
+h3 .title | Send an Enquiry
+
+=== index.html ===
+h1 .title | The Support For Your Farm
+p .desc | Agricultural products and farmer support through agents, rural outlets and Agri-Technology.
+h1 .title | The Solution For Your Enterprise
+p .desc | Agricultural products and farmer support through agents, rural outlets and Agri-Technology.
+h2 .title | Agricultural Products
+p .desc | Contact Oasis about agricultural products and support
+h2 .title | Digital Farmer Learning
+p .desc | Contact Oasis about agricultural products and support
+h2 .title | Enterprise Development
+p .desc | Contact Oasis about agricultural products and support
+h2 .title rts-slide-anim | Agri-Technology for agricultural communities
+p .desc | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h3 .title | Agents and Rural Outlets
+h3 .title | Learning and Financial Linkages
+p .desc | Call our office: (+256)-393-238073
+h2 .title rts-slide-anim | We are building future Together, Be with us
+h3 .title | Agricultural Inputs
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h3 .title | Farmer Support
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h3 .title | Farmer Learning
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h3 .title | Enterprise Development
+p .desc | Agricultural products, farmer learning and support through agents and rural outlets.
+h3 .title cw | oasisagroagent@gmail.com to for available for enquiries and collaborations
+h4 .stats | 2015
+p .desc | Established in 2015
+h4 .stats | 2015
+p .desc | Established in 2015
+h4 .stats | 2015
+p .desc | Established in 2015
+h4 .stats | 2015
+p .desc | Established in 2015
+h3 .title | Explore our agricultural support model.
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+h2 .title rts-slide-anim | Our Agent and Support Model
+h3 .title | Rural Outlets
+h3 .title | Enterprise Services
+h3 .title | Financial Linkages
+h3 .title | Software Solutions
+h2 .title cw rts-slide-anim mb-0 | Documented Programmes and Activities
+h3 .title | NU-HortiMAP
+h3 .title | FtF-IAM
+h3 .title | Agricultural Inputs
+h3 .title | NU-TEC MD
+h3 .title | Agent Capacity Building
+h3 .title | Enterprise Digital Platforms
+h2 .title rts-slide-anim | Agricultural support through agents, rural outlets and technology
+h2 .accordion-header | What products and services does Oasis provide?
+div .accordion-body | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h2 .accordion-header | Which communities does Oasis support?
+div .accordion-body | Oasis supports women, men, youth, refugees and host communities. Its company profile describes work across Lango, Karamoja, West Nile and Acholi.
+h2 .accordion-header | How can I contact Oasis?
+div .accordion-body | Call 0393 238073 or email oasisagroagent@gmail.com. The head office is at Plot 63-69, Women Peace House Suite 2, Lira City.
+h3 .counter-no | 2015
+p .desc | Company established in 2015
+h2 .title cw | Have an Enquiry? Let's Talk About Agricultural Services
+h2 .title rts-slide-anim | Explore our stories & insights
+h3 .title | Many of those products offer the potential not just to move your business
+h4 .name | Oasis Profile
+h3 .title | Agricultural services through agents and rural outlets
+h4 .name | Oasis Profile
+h3 .title | Agricultural services through agents and rural outlets
+h4 .name | Community Support
+h3 .title | Agricultural services through agents and rural outlets
+h4 .name | Oasis Profile
+h3 .title rts-slide-anim | Connect with Oasis Agribusiness
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+h3 .title | 2015 Projects Done
+p .desc | From banking and insurance to wealth the management and security on there
+h3 .title | 2015 Happy Clients
+p .desc | From banking and insurance to wealth the management and security on there
+h3 .title | Send an Enquiry
+
+=== pricing.html ===
+h2 .title | Enquire About Our Services
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | Service Enquiries
+li .nav-item | Products
+li .nav-item | Support
+p .desc | Enquire about agricultural inputs
+h3 .title | Farm Inputs
+h4 .price | Ask / enquiry
+li . | Business Solution
+li . | Field-based Farmer Support
+li . | Electronic Farmer Learning
+li . | Financial Linkages
+li . | Agent and Outlet Network
+p .desc | Enquire about farmer support
+h3 .title | Farmer Support
+h4 .price | Ask / enquiry
+li . | Business Solution
+li . | Field-based Farmer Support
+li . | Electronic Farmer Learning
+li . | Financial Linkages
+li . | Agent and Outlet Network
+p .desc | Enquire about enterprise services
+h3 .title | Enterprise Services
+h4 .price | Ask / enquiry
+li . | Business Solution
+li . | Field-based Farmer Support
+li . | Electronic Farmer Learning
+li . | Financial Linkages
+li . | Agent and Outlet Network
+p .desc | Enquire about agricultural inputs
+h3 .title | Farm Inputs
+h4 .price | Ask / enquiry
+li . | Business Solution
+li . | Field-based Farmer Support
+li . | Electronic Farmer Learning
+li . | Financial Linkages
+li . | Agent and Outlet Network
+p .desc | Enquire about farmer support
+h3 .title | Farmer Support
+h4 .price | Ask / enquiry
+li . | Business Solution
+li . | Field-based Farmer Support
+li . | Electronic Farmer Learning
+li . | Financial Linkages
+li . | Agent and Outlet Network
+p .desc | Enquire about enterprise services
+h3 .title | Enterprise Services
+h4 .price | Ask / enquiry
+li . | Business Solution
+li . | Field-based Farmer Support
+li . | Electronic Farmer Learning
+li . | Financial Linkages
+li . | Agent and Outlet Network
+h3 .title | Contact Our Office About Agricultural Services
+h2 .title rts-slide-anim | Agricultural support through agents, rural outlets and technology
+h2 .accordion-header | What products and services does Oasis provide?
+div .accordion-body | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h2 .accordion-header | Which communities does Oasis support?
+div .accordion-body | Oasis supports women, men, youth, refugees and host communities. Its company profile describes work across Lango, Karamoja, West Nile and Acholi.
+h2 .accordion-header | How can I contact Oasis?
+div .accordion-body | Call 0393 238073 or email oasisagroagent@gmail.com. The head office is at Plot 63-69, Women Peace House Suite 2, Lira City.
+h3 .counter-no | 2015
+p .desc | Company established in 2015
+
+=== project-details.html ===
+h2 .title | Documented Programmes
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | project
+h2 .title | Programme Information
+h2 .title | Share:
+h3 .name | NU-HortiMAP
+h3 .name | Oasis / TechnoServe
+h3 .name | Aug 2023 - Mar 2024
+h3 .name | Kole, Oyam and Lira
+h3 .mb-20 | Northern Uganda Horticulture Market Acceleration
+p .mb-35 | NU-HortiMAP ran from August 2023 to March 2024 in Kole, Oyam and Lira. Oasis and TechnoServe worked with funding from ABI on commercial nursery beds, urban farming, climate-smart technologies, horticulture skills for women and youth, and farmer e-learning.
+p . | Feed the Future Inclusive Agricultural Markets (FtF-IAM), November 2020 to November 2022: Oasis and DAI / Feed the Future, with USAID funding, worked in Abim, Kotido, Lira, Oyam and Kole. Activities included last-mile outlets, enterprise management and farmer learning platforms, and reducing market barriers for marginalised communities.
+h3 .title | Documented Programme Activities
+p .desc | NU-TEC MD, September 2018 to February 2020: Oasis and Palladium, with UKAID funding, worked across Lango, Acholi and West Nile on agent capacity, a PWD commercial agent model, grain aggregation, market linkages and climate-resilient crop inputs.
+h3 .title | Field-based Farmer Support
+p .desc | Commercial nursery beds, urban farming and climate-smart technologies.
+h3 .title | Learning and Financial Linkages
+p .desc | Women and youth horticulture skills and farmer e-learning.
+h3 .title | Climate-smart Agriculture
+p .desc | Agent capacity building, grain aggregation and market linkages.
+
+=== project.html ===
+h2 .title | Programmes and Activities
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | project
+h3 .title | NU-HortiMAP
+h3 .title | FtF-IAM
+h3 .title | Agricultural Inputs
+h3 .title | NU-TEC MD
+h3 .title | Agent Capacity Building
+h3 .title | Enterprise Digital Platforms
+
+=== service-details.html ===
+h2 .title | Agricultural Inputs
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | services details
+h3 .title | Agricultural Products and Support
+p .mt-20 | To empower and transform agricultural communities through innovative Agri-Technology solutions, comprehensive support services, and sustainable practices.
+p .mt-50 | To be the leading catalyst for agricultural advancement and empowerment through Agri-Technology, sustainable practices and inclusive solutions.
+p . | Oasis Agribusiness (U) Limited is an Agri-Technology company connecting farmers with agricultural products and services through agents and rural outlets. Our work brings together inputs, field-based support, learning platforms, financial linkages and enterprise services.
+h3 .title | Products and Farm Tools
+p . | Maintain wireless scerios after sure quality vectors future
+h3 .title | Agent-based Support
+p . | Maintain wireless scerios after sure quality vectors future
+h3 .title mb-20 | Agricultural services and technology:
+p .mb-35 | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h2 .accordion-header | What products and services does Oasis provide?
+div .accordion-body | Our agent and rural outlet model connects farmers with high-quality seeds, agro-chemicals, farm tools and agro insurance, alongside field-based support, electronic learning, financial linkages and enterprise development.
+h2 .accordion-header | Which communities does Oasis support?
+div .accordion-body | Oasis supports women, men, youth, refugees and host communities. Its company profile describes work across Lango, Karamoja, West Nile and Acholi.
+h2 .accordion-header | How can I contact Oasis?
+div .accordion-body | Call 0393 238073 or email oasisagroagent@gmail.com. The head office is at Plot 63-69, Women Peace House Suite 2, Lira City.
+h3 .widget-title | Categories
+li . | Business Solution
+li . | Farmer Support
+li . | Financial Linkages
+li . | Enterprise Development
+li . | Agro Insurance
+h3 .widget-title | Download
+h3 .title | Company Profile
+h3 .title | Contact Our Office
+h4 .title | Need Help? We Are Here To Help You
+
+=== service.html ===
+h2 .title | Our Agricultural Services
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | services
+h3 .title | Agricultural Inputs
+p .desc | High-quality seeds, agro-chemicals and farm tools, available through agents and rural outlets.
+h3 .title | Farmer Support
+p .desc | Field-based farmer support and electronic learning platforms for agricultural communities.
+h3 .title | Learning and Financial Linkages
+p .desc | Financial linkages, agro insurance and enterprise development services for farmers.
+h3 .title | Digital Learning
+p .desc | High-quality seeds, agro-chemicals and farm tools, available through agents and rural outlets.
+h3 .title | Enterprise Development
+p .desc | Field-based farmer support and electronic learning platforms for agricultural communities.
+h3 .title | Software Solutions
+p .desc | Financial linkages, agro insurance and enterprise development services for farmers.
+
+=== team.html ===
+h2 .title | Our Support Network
+p .desc | Oasis connects farmers with inputs, field-based support, learning platforms, financial linkages and enterprise services.
+li . | Home
+li . | team
+h3 .title | Agent Network
+p .role | Agricultural products
+h3 .title | Rural Outlets
+p .role | Last-mile services
+h3 .title | Farmer Learning
+p .role | Electronic learning
+h3 .title | Field Support
+p .role | Farmer support
+h3 .title | Agricultural Inputs
+p .role | Seeds and farm tools
+h3 .title | Agro Insurance
+p .role | Agricultural services
+h3 .title | Community Support
+p .role | Inclusive support
+h3 .title | Enterprise Support
+p .role | Enterprise development
